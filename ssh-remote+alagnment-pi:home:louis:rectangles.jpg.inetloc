@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>vscode-remote://ssh-remote%2Balagnment-pi/home/louis/find_rectangles.py</string>
+	<string>vscode-remote://ssh-remote%2Balagnment-pi/home/louis/rectangles.jpg</string>
 </dict>
 </plist>
